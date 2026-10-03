@@ -81,12 +81,12 @@ Each uploaded document receives a unique ID. That ID is stored as metadata with 
 
 ## Link
 
-```Enter Link
+```https://ledgerlens-financial-rag.onrender.com
 ```
 
 ## Demo 
 
-```Video
+```https://drive.google.com/file/d/1R3poQ2VDWroYGFw4oR9b9nQ7AkrRCjhr/view?usp=sharing
 ```
 
 ## Using the application
