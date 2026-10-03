@@ -63,6 +63,14 @@ Each uploaded document receives a unique ID. That ID is stored as metadata with 
 | Build tool | Maven with Maven Wrapper |
 | Deployment | Render |
 
+## Link
+
+**https://ledgerlens-financial-rag.onrender.com**
+
+## Demo 
+
+**https://drive.google.com/file/d/1R3poQ2VDWroYGFw4oR9b9nQ7AkrRCjhr/view?usp=sharing**
+
 ## Requirements
 
 - Java 17 or newer
@@ -77,19 +85,6 @@ Each uploaded document receives a unique ID. That ID is stored as metadata with 
 - Number of retrieved chunks: 5
 - Similarity threshold: 0.5
 - Gemini chat temperature: 0.1
-
-
-## Link
-
-```
-https://ledgerlens-financial-rag.onrender.com
-```
-
-## Demo 
-
-```
-https://drive.google.com/file/d/1R3poQ2VDWroYGFw4oR9b9nQ7AkrRCjhr/view?usp=sharing
-```
 
 ## Using the application
 
